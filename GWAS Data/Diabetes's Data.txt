@@ -1,0 +1,78 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1. https://www.dropbox.com/s/ese72oyg9aly43x/20002_1220.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20002_1220.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+2. https://www.dropbox.com/s/ib02ohskte1kvut/20002_1222.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20002_1222.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+3. https://www.dropbox.com/s/0cjl1yv2dm1ipf2/20002_1223.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20002_1223.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+4. https://www.dropbox.com/s/8tkf1afqrwkylip/20107_9.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20107_9.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+5. https://www.dropbox.com/s/j8h9css9lp0phq6/20110_9.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20110_9.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+6. https://www.dropbox.com/s/fi209a6bxuaz6bx/20111_9.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20111_9.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+7. https://www.dropbox.com/s/qt1txplru51d3lm/20112_9.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20112_9.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+8. https://www.dropbox.com/s/yhl8a9tvicpbczg/20113_9.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20113_9.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+9. https://www.dropbox.com/s/wgkrk525m51nkti/20114_9.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 20114_9.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+10. https://www.dropbox.com/s/1i26ho0uycr5dcw/2443.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 2443.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+11. https://www.dropbox.com/s/36oe0g1jpyl475x/2976_irnt.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 2976_irnt.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+12. https://www.dropbox.com/s/1465yha5s73xwpn/2976_raw.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 2976_raw.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+13. https://www.dropbox.com/s/v5tc7t9n7idrajh/2986.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 2986.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+14. https://www.dropbox.com/s/0x1rmzzdu8b6nt2/4041.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 4041.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+15. https://www.dropbox.com/s/4gyjfmognwfcp5f/6148_1.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 6148_1.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+16. https://www.dropbox.com/s/72khue9j6wt6a0q/6153_3.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 6153_3.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+17. https://www.dropbox.com/s/m3l7n4eez40m2f6/6177_3.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O 6177_3.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+18. https://www.dropbox.com/s/yzhl5nnnhwn4tyz/E10.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E10.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+19. https://www.dropbox.com/s/ugskg6i1oudve5i/E11.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E11.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+20. https://www.dropbox.com/s/9kzijwgoyr6wh2l/E14.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E14.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+21. https://www.dropbox.com/s/qnskzu1obrpc5t6/E4_DM1.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM1.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+22. https://www.dropbox.com/s/uhidlscb7em1c8a/E4_DM1KETO.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM1KETO.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+23. https://www.dropbox.com/s/f73mkj4walx9uc5/E4_DM1NOCOMP.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM1NOCOMP.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+24. https://www.dropbox.com/s/nw1rszv1utt1y5o/E4_DM1OPTH.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM1OPTH.gwas.imputed_v3.both_\cf2 \outl0\strokewidth0 sexes.tsv.bgz\
+\
+25. \cf2 \outl0\strokewidth0 \strokec2 https://www.dropbox.com/s/en89arzlpienvlj/E4_DM2.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM2.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+26. https://www.dropbox.com/s/3wwibvtig6g0tsw/E4_DM2NOCOMP.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM2NOCOMP.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+27. https://www.dropbox.com/s/c68u72s84wlz21n/E4_DM2OPTH.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM2OPTH.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+28. https://www.dropbox.com/s/pmcxy41mzaxcll9/E4_DM2PERIPH.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DM2PERIPH.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+29. https://www.dropbox.com/s/isvo0qmyvo4cqmn/E4_DMNASOPTH.gwas.imputed_v3.both_sexes.tsv.bgz?dl=0 -O E4_DMNASOPTH.gwas.imputed_v3.both_sexes.tsv.bgz\
+\
+30. https://www.dropbox.com/s/afxkmpqhma93nof/20107_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz?dl=0 -O 20107_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz\
+\
+31. https://www.dropbox.com/s/ax6oc6esjiqiezc/20110_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz?dl=0 -O 20110_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz\
+\
+32. https://www.dropbox.com/s/vo0v0r1pae2y04y/20111_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz?dl=0 -O 20111_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz\
+\
+33. https://www.dropbox.com/s/qmjiuubck5fs83t/20112_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz?dl=0 -O 20112_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz\
+\
+34. https://www.dropbox.com/s/oy7rdefju9vooj9/20113_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz?dl=0 -O 20113_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz\
+\
+35. https://www.dropbox.com/s/zkwxm6nki031x30/20114_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz?dl=0 -O 20114_9.gwas.imputed_v3.both_sexes.v2.tsv.bgz}
